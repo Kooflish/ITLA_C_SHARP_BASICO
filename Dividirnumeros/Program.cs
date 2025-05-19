@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 class Dividirnumeros    
 {
-    static void Main()
+    static void Main(string[] args)
     {
+        Console.WriteLine("Division de Dos Números");
         try
         {
             Console.Write("Introduce el primer número: ");
