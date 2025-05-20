@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Formulacuadratica\Formulacuadratica.csproj" />
-  </ItemGroup>
-
 </Project>
