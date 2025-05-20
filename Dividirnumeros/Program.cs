@@ -7,7 +7,7 @@ class Dividirnumeros
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Division de Dos Números");
+        Console.WriteLine("*Division de Dos Números*");
         try
         {
             Console.Write("Introduce el primer número: ");
