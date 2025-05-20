@@ -10,7 +10,7 @@ namespace Multiplicarnumeros
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Multiplicación de Dos Números");
+            Console.WriteLine("-Multiplicación de Dos Números-");
 
 
             try
