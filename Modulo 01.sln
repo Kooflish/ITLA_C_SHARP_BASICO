@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numerosprimo", "Numerosprim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulacuadratica", "Formulacuadratica\Formulacuadratica.csproj", "{37914990-0F36-47D8-B77F-D88DF159DA6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numerosimpares", "Numerosimpares\Numerosimpares.csproj", "{C4F54E55-26F9-4D3F-ADCF-0A1127546DE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{37914990-0F36-47D8-B77F-D88DF159DA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37914990-0F36-47D8-B77F-D88DF159DA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37914990-0F36-47D8-B77F-D88DF159DA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F54E55-26F9-4D3F-ADCF-0A1127546DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F54E55-26F9-4D3F-ADCF-0A1127546DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F54E55-26F9-4D3F-ADCF-0A1127546DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F54E55-26F9-4D3F-ADCF-0A1127546DE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
